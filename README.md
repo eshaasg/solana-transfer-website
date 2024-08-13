@@ -1,3 +1,21 @@
+# Solana Transfer Website
+## Homepage
+![sol1](https://github.com/user-attachments/assets/65e33866-05b5-4317-91bb-6f63cf929c23)
+
+## Enter the amount of sol to send and the address to send it to
+![sol2](https://github.com/user-attachments/assets/c34ff68d-2922-4a64-a542-f5cb13837a3f)
+
+## Click on send, confirm transaction
+![sol3](https://github.com/user-attachments/assets/29bb2c63-fd4b-4e37-9991-e0445ae0a87c)
+
+## We see that the transaction was successful, `click me` link appears
+![sol4](https://github.com/user-attachments/assets/2b99efbd-9e98-434f-aa5c-3f9f0e25fbec)
+
+## Verify your transaction on Solana Explorer 🚀
+![sol5](https://github.com/user-attachments/assets/399b7975-de1f-4354-b8b3-14c98e2c1241)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
